@@ -1,0 +1,14 @@
+{
+  "name": "react-google-structured-data",
+  "version": "1.0.0",
+  "description": "Generate structured data for google from react",
+  "main": "index.js",
+  "author": "Gavin Gassmann",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^2",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "webpack": "^4.12.1"
+  }
+}
