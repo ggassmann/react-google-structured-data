@@ -2,9 +2,15 @@
   "name": "react-google-structured-data",
   "version": "1.0.0",
   "description": "Generate structured data for google from react",
+  "keywords": ["react","ssr","server side rendering", "google", "structured data"],
+  "homepage": "https://github.com/ggassmann/react-google-structured-data",
   "main": "index.js",
-  "author": "Gavin Gassmann",
-  "license": "ISC",
+  "author": "Gavin Gassmann <gassmann.gavin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggassmann/react-google-structured-data.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "core-js": "^2",
     "prop-types": "^15.6.2",
